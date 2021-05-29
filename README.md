@@ -1,7 +1,7 @@
 # hello_world
 My starting point in shifting from English Language Teaching to Data Analytics.
 Or maybe just broadening my ELT career...
-But haw can you combine ELT with DA?
+But haw can one combine ELT with DA?
 Actually, I love data. I love Logic, Statistics and Maths. Well, maybe rather from philosophical than practical point of view...
 I also love Teaching. I'm inspired by challenges it gives me. Inspired by methodology and psychology in its base. Inspired by students.
 But I hate seeing some (oh, I hope there're just a few of that sort in this world) other teachers being bitchy, tunnel-visioned and blind to the needs of their students, often intolerant, even ignorant. It's OK for me when they deal with young adults and adults. But when they deal with kids and teens I simply can't stand. 
