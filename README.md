@@ -14,3 +14,6 @@ The problem looks so delicate, so psychological, so intangible that I really dou
 But I want to try. Because... I can't solve the fuckin problem being just a teacher. Because principles and their deputies have power.
 Someday I want to start my own school. And I probably need some data to succeed. Do I?
 
+In my ideal DA social media presence I'd like to develop in Kaggle, Github, with many interesting DA projects where various members contribute to help develop my skills and drive great and insightful project together.
+But first I need ideas to start with. I need to search a lot through Kaggle and Github for inspiration and experience. Then I'll start with my first projects. Most probably it will be related to Russian education, but still I don't know where to start because I'm not even sure how data can help promote best teaching practices to our schools! But al least this is kind of a goal
+
